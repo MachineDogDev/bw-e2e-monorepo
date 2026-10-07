@@ -1,0 +1,9 @@
+{
+  "name": "bw-e2e-monorepo",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter @fixture/web dev",
+    "build": "pnpm --filter @fixture/web build"
+  },
+  "packageManager": "pnpm@10.26.1"
+}

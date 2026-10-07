@@ -1,0 +1,8 @@
+{
+  "name": "@fixture/ui",
+  "private": true,
+  "type": "module",
+  "main": "src/index.jsx",
+  "exports": { ".": "./src/index.jsx" },
+  "peerDependencies": { "react": "^18.3.1" }
+}
